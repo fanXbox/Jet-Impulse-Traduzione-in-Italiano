@@ -1,0 +1,5 @@
+Connessione　Wi-Fi　fallita.
+Rivedi　le　impostazioni
+di　connessione.
+
+ERRORCODE:%d

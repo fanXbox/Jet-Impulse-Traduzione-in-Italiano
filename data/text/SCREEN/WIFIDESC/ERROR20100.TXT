@@ -1,0 +1,6 @@
+Impossibile　connettersi　al
+Wi-Fi.　Per　i　dettagli,
+consultare　il　manuale
+d’istruzioni.
+
+ERRORCODE:%d

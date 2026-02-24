@@ -1,0 +1,4 @@
+Si　ｅ　verificato　un
+errore　di　comunicazione.
+
+ERRORCODE:%d

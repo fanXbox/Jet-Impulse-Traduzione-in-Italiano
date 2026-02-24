@@ -1,0 +1,4 @@
+2°　Arma:　　%3c800KB　(800　Kilo　Bomb)%c
+Bomba　a　caduta　libera.
+Infligge　danni　su　un’area　media.
+Versione　potenziata　della　500KB.

@@ -1,0 +1,5 @@
+2°　Arma:　　%3cAGQT1%c
+Missile　anti-superficie　che
+aggancia　fino　a　4　bersagli
+contemporaneamente.
+Ha　una　gittata　discreta.

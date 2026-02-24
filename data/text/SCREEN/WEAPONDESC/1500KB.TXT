@@ -1,0 +1,5 @@
+2°　Arma:　　%3c1500KB　(1.5　Ton　Bomb)%c
+Bomba　a　caduta　libera.
+Infligge　danni　su　un’area
+piｕ　ampia.
+Versione　potenziata　della　1000KB.

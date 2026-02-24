@@ -1,0 +1,3 @@
+Impossibile@scaricare@i@dati.
+
+ERRORCODE:%d

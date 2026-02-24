@@ -1,0 +1,6 @@
+Nessun　punto　d’accesso
+disponibile　trovato.
+Controlla　le　impostazioni
+della　tua　connessione　Wi-Fi.
+
+ERRORCODE:%d

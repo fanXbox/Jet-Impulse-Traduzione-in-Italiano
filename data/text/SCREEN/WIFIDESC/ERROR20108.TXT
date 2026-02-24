@@ -1,0 +1,7 @@
+Il　tuo　ID　di　connessione
+Wi-Fi　ｅ　stato　eliminato　a
+causa　d’inattivitａ.　Per　i
+dettagli,　consulta　il　manuale
+d’istruzioni.
+
+ERRORCODE:%d

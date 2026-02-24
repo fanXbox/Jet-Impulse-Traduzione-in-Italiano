@@ -1,0 +1,3 @@
+WEAPON1:%3cDMY01%c
+Missile　fittizio　senza　esplosivo.
+Usato　solo　per　l’addestramento.

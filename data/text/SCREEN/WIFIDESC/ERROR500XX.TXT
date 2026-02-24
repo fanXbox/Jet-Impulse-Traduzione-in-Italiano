@@ -1,0 +1,5 @@
+Non　e　stato　trovato　alcun
+punto　d’accesso.　Avvicinati　al
+punto　d’accesso　e　riprova.
+
+ERRORCODE:%d

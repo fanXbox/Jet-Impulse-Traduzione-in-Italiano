@@ -1,0 +1,4 @@
+Disconnesso　dal　Wi-Fi　causa
+errore　di　comunicazione.
+
+ERRORCODE:%d

@@ -1,0 +1,5 @@
+La　connessione　Wi-Fi　ｅ
+occupata　o　non　disponibile.
+Attendi　e　riprova.
+
+ERRORCODE:%d

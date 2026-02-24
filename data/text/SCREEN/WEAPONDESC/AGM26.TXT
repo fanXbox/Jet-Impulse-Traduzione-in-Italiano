@@ -1,0 +1,3 @@
+2°　Arma:　　%3cAGM26%c
+Missile　anti-nave　standard
+con　raggio　di　aggancio　medio.

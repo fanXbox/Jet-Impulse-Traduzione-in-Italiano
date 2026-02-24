@@ -1,0 +1,4 @@
+1°　Arma:　　%3cAAM5A%c
+Missile　obsoleto　per　uso　generico.
+Utilizza　il　tracciamento　a　infrarossi.
+Prestazioni　e　potenza　ridotte.

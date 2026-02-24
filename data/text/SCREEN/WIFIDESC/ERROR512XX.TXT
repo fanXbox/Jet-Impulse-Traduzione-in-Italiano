@@ -1,0 +1,5 @@
+Il　punto　d’accesso　ｅ　occupato.
+Attendi　un　attimo　prima
+di　riprovare.
+
+ERRORCODE:%d
