@@ -1,0 +1,4 @@
+Sword:
+Ci　sto.　Anche　a
+te　va　bene,　vero,
+%player_name_%?
