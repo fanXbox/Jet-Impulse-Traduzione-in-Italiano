@@ -1,0 +1,4 @@
+Questa　casella　indica　la　%3cvelocitａ%c
+dell’aereo　in　km/h.
+Accelera　con　il　pulsante　Ｒ.
+Rallenta　con　il　pulsante　Ｌ.

@@ -1,0 +1,6 @@
+Attivando　questo
+pulsante,　il　radar
+aumenterａ/ridurrａ
+%3cautomaticamente　lo
+zoom　in　base　alla
+distanza%c　del　nemico.

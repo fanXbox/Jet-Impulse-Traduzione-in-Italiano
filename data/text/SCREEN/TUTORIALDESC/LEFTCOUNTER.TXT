@@ -1,0 +1,4 @@
+Questo　indicatore　mostra
+il　%3cN°　totale　di
+aerei　nemici　rimasti%c
+in　missione.

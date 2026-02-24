@@ -1,0 +1,4 @@
+Questa　casella　mostra
+la　%3cdistanza　e　i
+ＰＶ%c　dei　nemici
+selezionati.

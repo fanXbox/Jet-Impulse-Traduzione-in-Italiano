@@ -1,0 +1,6 @@
+%2cMultigiocatore%c
+
+Usa　piｕ　console　DS　per
+giocare　con　altri　giocatori
+vicini　a　te.
+(Connessione　locale)

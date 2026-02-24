@@ -1,0 +1,4 @@
+Questo　indicatore
+mostra　il　%3cN°　di
+aerei　abbattuti%c
+durante　una　missione.

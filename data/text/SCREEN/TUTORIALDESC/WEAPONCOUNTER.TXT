@@ -1,0 +1,7 @@
+Qui　vengono　mostrate
+le　%3cmunizioni　rimanenti
+di　ciascuna　arma%c.
+
+Tocca　le　caselle
+per　passare
+dall’una　all’altra.

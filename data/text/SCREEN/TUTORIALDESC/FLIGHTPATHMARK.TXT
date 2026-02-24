@@ -1,0 +1,3 @@
+Questo　punto　mostra　il　%3cpercorso　di
+volo%c　o　il　vettore　su　cui　si
+trova　attualmente　l’aereo.

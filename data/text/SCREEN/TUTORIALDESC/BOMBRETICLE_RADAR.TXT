@@ -1,0 +1,3 @@
+Se　l’arma　selezionata　ｅ　una　bomba,
+sul　tuo　radar　apparirａ　un　%3creticolo
+che　indica　il　punto　d’impatto%c.

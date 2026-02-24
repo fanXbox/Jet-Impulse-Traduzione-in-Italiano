@@ -1,0 +1,3 @@
+Questo　messaggio　viene　visualizzato
+quando　sei　%3cagganciato%c　da　un
+aereo　nemico.
