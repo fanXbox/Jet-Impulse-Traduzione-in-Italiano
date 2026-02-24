@@ -1,0 +1,122 @@
+À à, Â â, É é, È è, Ê ê, Ë ë
+
+desiderato	file .TXT		file .MDIG/.MDIG2	Note
+SPAZIO	=	IDSP (　)	=	8140 o 7F	(se il testo ricade sullo schermo superiore, usare lo spazio della tastiera)
+Æ	=	ｉ	=	8289
+æ	=	ｊ	=	828a
+Œ	=	ｋ	=	828b
+œ	=	ｌ	=	828c
+ß	=	ｍ	=	828d
+Ç	=	ｎ	=	828e
+ç	=	ｏ	=	828f
+„	=	ｐ	=	8290
+Ì	=	ｑ	=	8291
+Í	=	ｒ	=	8292
+ì	=	ｓ	=	8293
+í	=	ｔ	=	8294
+Î	=	ｕ	=	8295
+Ï	=	v	=	8296
+î	=	ｗ	=	8297
+ï	=	ｘ	=	8298
+
+'	=	＇	=	27		(usare direttamente l'accento della tastiera)
+’	=	’	=	8166
+°	=	°	=	818b
+
+Caratteri da usare in combinazione con i caratteri base per coprire tutti i caratteri accentati (acuto, grave, circonflesso e dieresi/Tréma), prima digitare questo carattere e poi il carattere base (scritti direttamente dalla tastiera) su cui applicarlo
+ˋ (maisculo)	=	ａ	=	8281
+ˋ (minuscolo)	=	ｂ	=	8282
+ˊ (maisculo)	=	ｃ	=	8283
+ˊ (minuscolo)	=	ｄ	=	8284
+ˆ (maisculo)	=	ｅ	=	8285
+ˆ (minuscolo)	=	ｆ	=	8286
+¨ (maisculo)	=	ｇ	=	8287
+¨ (minuscolo)	=	ｈ	=	8288
+esempi:
+Â		=	ｅA	=	828541
+Ë		=	ｇE	=	828745
+é		=	ｄe	=	828465
+
+Caratteri base
+A	=	A	=	41
+B	=	B	=	42
+C	=	C	=	43
+D	=	D	=	44
+E	=	E	=	45
+F	=	F	=	46
+G	=	G	=	47
+H	=	H	=	48
+I	=	I	=	49
+J	=	J	=	4a
+K	=	K	=	4b
+L	=	L	=	4c
+M	=	M	=	4d
+N	=	N	=	4e
+O	=	O	=	4f
+P	=	P	=	50
+Q	=	Q	=	51
+R	=	R	=	52
+S	=	S	=	53
+T	=	T	=	54
+U	=	U	=	55
+V	=	V	=	56
+W	=	W	=	57
+X	=	X	=	58
+Y	=	Y	=	59
+Z	=	Z	=	5a
+a	=	a	=	61
+b	=	b	=	62
+c	=	c	=	63
+d	=	d	=	64
+e	=	e	=	65
+f	=	f	=	66
+g	=	g	=	67
+h	=	h	=	68
+i	=	i	=	69
+j	=	j	=	6a
+k	=	k	=	6b
+l	=	l	=	6c
+m	=	m	=	6d
+n	=	n	=	6e
+o	=	o	=	6f
+p	=	p	=	70
+q	=	q	=	71
+r	=	r	=	72
+s	=	s	=	73
+t	=	t	=	74
+u	=	u	=	75
+v	=	v	=	76
+w	=	w	=	77
+x	=	x	=	78
+y	=	y	=	79
+z	=	z	=	7a
+
+Caratteri a spessore pieno
+Ａ	=	Ａ	=	8260
+Ｂ	=	Ｂ	=	8261
+Ｃ	=	Ｃ	=	8262
+Ｄ	=	Ｄ	=	8263
+Ｅ	=	Ｅ	=	8264
+Ｆ	=	Ｆ	=	8265
+Ｇ	=	Ｇ	=	8266
+Ｈ	=	Ｈ	=	8267
+Ｉ	=	Ｉ	=	8268
+Ｊ	=	Ｊ	=	8269
+Ｋ	=	Ｋ	=	826a
+Ｌ	=	Ｌ	=	826b
+Ｍ	=	Ｍ	=	826c
+Ｎ	=	Ｎ	=	826d
+Ｏ	=	Ｏ	=	826e
+Ｐ	=	Ｐ	=	826f
+Ｑ	=	Ｑ	=	8270
+Ｒ	=	Ｒ	=	8271
+Ｓ	=	Ｓ	=	8272
+Ｔ	=	Ｔ	=	8273
+Ｕ	=	Ｕ	=	8274
+Ｖ	=	Ｖ	=	8275
+Ｗ	=	Ｗ	=	8276
+Ｘ	=	Ｘ	=	8277
+Ｙ	=	Ｙ	=	8278
+Ｚ	=	Ｚ	=	8279
+＋	=	＋	=	817b
+－	=	－	=	817c
