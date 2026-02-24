@@ -1,0 +1,4 @@
+Jasmine:
+Per　quest’operazione,　Cactus　sarａ　il
+navigatore　di　Whopper,　e　io　sarｏ　il
+tuo　navigatore,　%player_name_%.

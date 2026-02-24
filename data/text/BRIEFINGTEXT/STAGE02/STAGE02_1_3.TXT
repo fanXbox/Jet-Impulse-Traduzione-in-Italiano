@@ -1,0 +1,7 @@
+Delight:
+%player_name_%,　volerai　insieme　a
+Jasmine,　Cactus　volerａ　con　Gardenia,
+mentre　Whopper　volerａ　con　Woodball.
+
+Ogni　coppia　dovrａ　esplorare　il
+percorso　assegnato.
