@@ -1,0 +1,3 @@
+Jasmine:
+Seguimi,
+%player_name_%.
