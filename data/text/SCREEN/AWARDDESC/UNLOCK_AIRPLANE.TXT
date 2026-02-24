@@ -1,0 +1,3 @@
+　Nuovo　aereo:
+　%%3c%s%%c
+　ｅ　stato　sbloccato!

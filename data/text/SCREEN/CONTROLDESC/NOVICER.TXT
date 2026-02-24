@@ -1,0 +1,10 @@
+Controlli　aereo　%3csemplici%c　invertiti.
+
+pulsante　↑:　　%3cCabrata%c
+pulsante　↓:　　%3cPicchiata%c
+pulsante　←/→:　　%3cVirata%c
+pulsante　Ａ:　　%3cMissile%c
+pulsante　Ｂ:　　%3cMitragliatrice%c
+pulsante　Ｘ:　　%3cCambia　obbiettivo%c
+pulsante　Ｙ:　　%3cCambia　arma%c
+Schermo　tattile:　　%3cVarie　funzioni%c

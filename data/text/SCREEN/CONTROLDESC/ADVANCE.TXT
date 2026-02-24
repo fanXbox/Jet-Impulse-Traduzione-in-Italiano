@@ -1,0 +1,10 @@
+Controlli　aereo　%3crealistici%c.
+
+pulsante　↑:　　%3cPicchiata%c
+pulsante　↓:　　%3cCabrata%c
+pulsante　←/→:　　%3cRollｉo%c
+pulsante　Ａ:　　%3cMissile%c
+pulsante　Ｂ:　　%3cMitragliatrice%c
+pulsante　Ｘ:　　%3cCambia　obbiettivo%c
+pulsante　Ｙ+←/→:　　%3cImbardata%c
+Schermo　tattile:　　%3cVarie　funzioni%c
