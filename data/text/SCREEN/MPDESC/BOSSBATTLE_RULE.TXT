@@ -1,0 +1,6 @@
+%2cCondizioni　di　vittoria%c
+-　Distruggi　il　Boss.
+
+%1cCause　di　sconfitta%c
+-　Tempo　scaduto
+-　Aereo　distrutto.

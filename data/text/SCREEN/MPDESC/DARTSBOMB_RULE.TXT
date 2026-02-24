@@ -1,0 +1,7 @@
+%2cCondizioni　di　vittoria%c
+-　Distruggi　tutti
+gli　obbiettivi.
+
+%1cCause　di　sconfitta%c
+-　Tempo　scaduto
+-　Aereo　distrutto.

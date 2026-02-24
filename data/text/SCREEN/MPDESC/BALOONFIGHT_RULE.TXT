@@ -1,0 +1,6 @@
+%2cCondizioni　di　vittoria%c
+-　Distruggi　tutti
+i　palloncini.
+
+%1cCause　di　sconfitta%c
+-　Aereo　distrutto.
