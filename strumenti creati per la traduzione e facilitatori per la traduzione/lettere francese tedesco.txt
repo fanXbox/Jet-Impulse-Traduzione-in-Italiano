@@ -1,22 +1,20 @@
-À à, Â â, É é, È è, Ê ê, Ë ë
-
 desiderato	file .TXT		file .MDIG/.MDIG2	Note
 SPAZIO	=	IDSP (　)	=	8140 o 7F	(se il testo ricade sullo schermo superiore, usare lo spazio della tastiera)
-Æ	=	ｉ	=	8289
-æ	=	ｊ	=	828a
-Œ	=	ｋ	=	828b
-œ	=	ｌ	=	828c
-ß	=	ｍ	=	828d
-Ç	=	ｎ	=	828e
-ç	=	ｏ	=	828f
-„	=	ｐ	=	8290
+„	=	ｆ	=	8286
+Æ	=	ｈ	=	8288
+æ	=	ｉ	=	8289
+Œ	=	ｊ	=	828a
+œ	=	ｋ	=	828b
+Ç	=	ｌ	=	828c
+ç	=	ｍ	=	828d
+ß	=	ｏ	=	828f
 Ì	=	ｑ	=	8291
-Í	=	ｒ	=	8292
-ì	=	ｓ	=	8293
+ì	=	ｒ	=	8292
+Í	=	ｓ	=	8293
 í	=	ｔ	=	8294
 Î	=	ｕ	=	8295
-Ï	=	v	=	8296
-î	=	ｗ	=	8297
+î	=	ｖ	=	8296
+Ï	=	ｗ	=	8297
 ï	=	ｘ	=	8298
 
 '	=	＇	=	27		(usare direttamente l'accento della tastiera)
@@ -25,13 +23,13 @@ SPAZIO	=	IDSP (　)	=	8140 o 7F	(se il testo ricade sullo schermo superiore, usa
 
 Caratteri da usare in combinazione con i caratteri base per coprire tutti i caratteri accentati (acuto, grave, circonflesso e dieresi/Tréma), prima digitare questo carattere e poi il carattere base (scritti direttamente dalla tastiera) su cui applicarlo
 ˋ	=	ａ	=	8281
-ˊ	=	ｃ	=	8283
-ˆ	=	ｅ	=	8285
-¨	=	ｇ	=	8287
+ˊ	=	ｂ	=	8282
+ˆ	=	ｃ	=	8283
+¨	=	ｄ	=	8284
 esempi:
-Â	=	ｅA	=	828541
-Ë	=	ｇE	=	828745
-é	=	ｄe	=	828465
+Â	=	ｅA	=	828341
+Ë	=	ｇE	=	828445
+é	=	ｄe	=	828265
 
 Caratteri base
 A	=	A	=	41
