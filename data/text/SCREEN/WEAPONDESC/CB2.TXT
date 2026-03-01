@@ -1,4 +1,3 @@
 2°　Arma:　　%3cCB2%c
-Bomba　a　grappolo　a　caduta　libera
-che　si　divide　in　piccole　bombe
-su　un’area　molto　ampia.
+Bomba　a　grappolo　a　caduta　libera,　si　divide
+in　piccole　bombe　su　un’area　molto　ampia.

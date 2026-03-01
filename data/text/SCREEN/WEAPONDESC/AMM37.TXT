@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAMM37%c
-Missile　aria-aria　a　medio　raggio
-con　prestazioni　eccellenti.
+Missile　aria-aria　con　portata　d’acquisizione
+intermedia　con　prestazioni　eccellenti.
 Versione　migliorata　dell’AMM35.

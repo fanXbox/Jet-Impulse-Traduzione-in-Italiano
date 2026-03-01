@@ -1,4 +1,4 @@
 2°　Arma:　　%3cCB3%c
-Bomba　a　grappolo　a　caduta　libera
-con　gittata　e　potenza　aumentate.
+Bomba　a　grappolo　a　caduta　libera,　si　divide
+in　piccole　bombe　su　un’area　molto　ampia.
 Versione　potenziata　del　CB2.

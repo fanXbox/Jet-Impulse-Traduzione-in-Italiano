@@ -1,4 +1,3 @@
 2°　Arma:　　%3cGB160%c
 Una　bomba　con　capacitａ　di　aggancio.
-Infligge　gravi　danni　a　una　piccola
-area.
+Infligge　gravi　danni　a　una　piccola　area.

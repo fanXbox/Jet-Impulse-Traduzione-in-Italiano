@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAGM27%c
-Missile　anti-nave　standard.
-Raggio　di　aggancio　medio-lungo.
+Missile　anti-nave　standard　con
+raggio　di　acquisizione　medio-lungo.
 Versione　potenziata　dell’AGM26.

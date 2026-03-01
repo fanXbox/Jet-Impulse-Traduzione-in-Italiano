@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAMM35%c
-Missile　aria-aria　standard　con
-gittata　media.
+Missile　aria-aria　standard　con　portata
+d’acquisizione　intermedia.
 Versione　potenziata　dell’AMM32.

@@ -1,4 +1,3 @@
 2°　Arma:　　%3c500KB　(500　Kilo　Bomb)%c
 Bomba　a　caduta　libera.
-Infligge　danni　su　una
-piccola　area.
+Infligge　danni　su　un’area　piccola.
