@@ -1,4 +1,4 @@
 Abbreviazione　di　%3cHead-up　Display
-(visore　a　sovrimpressione)%c.　ｄ　un
-termine　che　indica　tutti　gli
-oggetti　visualizzati　sullo　schermo.
+(visore　a　sovrimpressione)%c.
+ｄ　un　dispositivo　che　visualizza
+tutti　gli　elementi　sullo　schermo.

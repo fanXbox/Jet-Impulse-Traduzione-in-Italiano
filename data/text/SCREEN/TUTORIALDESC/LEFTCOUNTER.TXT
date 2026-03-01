@@ -1,4 +1,3 @@
-Questo　indicatore　mostra
-il　%3cN°　totale　di
-aerei　nemici　rimasti%c
-in　missione.
+Indicatore　che　mostra
+il　%3cN°　di　obiettivi
+rimasti%c　nella　missione.

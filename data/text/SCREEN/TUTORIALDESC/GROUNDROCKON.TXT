@@ -1,2 +1,3 @@
-Questo　segno　indica　un　%3cnemico　terrestre
-agganciato%c.　Usa　i　missili　per　distruggerlo.
+Questo　segno　indica　un　%3cnemico
+terrestre　agganciato%c.
+Usa　i　missili　per　distruggerlo.

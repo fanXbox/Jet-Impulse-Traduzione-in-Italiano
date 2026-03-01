@@ -1,4 +1,4 @@
-Questo　avviso　mostra　quando　un
+Questo　avviso　indica　quando　un
 %3cmissile　nemico%c　viene　lanciato　contro
 il　tuo　aereo.
-Assicurati　di　adottare　manovre　evasive.
+Adotta　manovre　evasive.

@@ -1,4 +1,4 @@
 Ingrandisci/riduci　il
 radar　premendo　i
-pulsanti　%3c＋　e　－%c
+pulsanti　%3c＋%c　e　%3c－%c
 sullo　schermo　tattile.

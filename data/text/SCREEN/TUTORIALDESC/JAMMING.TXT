@@ -1,4 +1,4 @@
 La　tua　manovrabilitａ　sarａ　ridotta　se
-entri　in　un’%3carea　di　disturbo%c.　Assicurati
-di　distruggere　i　disturbatori　da　una
-distanza　di　sicurezza.
+entri　in　un’%3carea　di　disturbo%c.
+Assicurati　di　distruggere　i　disturbatori
+da　una　distanza　di　sicurezza.

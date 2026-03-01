@@ -1,4 +1,2 @@
-La　cornice　verde　indica　la
-%3czona　operativa%c.　Se　esci
-dall’area,　la　tua　missione
-attuale　fallirａ.
+La　cornice　verde　indica　la　%3czona　operativa%c.
+Se　esci　dall’area,　la　missione　fallirａ.

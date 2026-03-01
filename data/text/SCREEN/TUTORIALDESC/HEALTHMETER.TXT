@@ -1,4 +1,3 @@
-Questo　indicatore
-mostra　i　%3cＰＶ
-rimanenti　del　tuo
-aereo%c.
+Indicatore　che　mostra
+i　%3cＰＶ　rimanenti　del
+tuo　aereo%c.

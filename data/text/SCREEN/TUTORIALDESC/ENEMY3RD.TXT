@@ -1,2 +1,2 @@
-%3cAltri　obiettivi　nemici%c　sono
-contrassegnati　in　giallo.
+%3cAltri　obiettivi　nemici%c　sono　contrassegnati
+in　giallo.

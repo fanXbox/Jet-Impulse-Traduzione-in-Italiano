@@ -1,3 +1,4 @@
-Questo　segno　indica　un　%3cnemico　terrestre
-a　distanza　d’ingaggio　preso　di　mira%c.
-Premi　il　pulsante　Ｘ　per　cambiare　bersaglio.
+Questo　segno　indica　un　%3cnemico
+terrestre　a　distanza　d’ingaggio　preso
+di　mira%c.　Premi　il　pulsante　Ｘ
+per　cambiare　bersaglio.

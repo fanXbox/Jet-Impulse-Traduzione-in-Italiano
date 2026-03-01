@@ -1,2 +1,2 @@
-I　%3cmissili　lanciati%c　sono　visualizzati
-in　colori　diversi.
+I　%3cmissili　lanciati%c　sono　visualizzati　in　colori
+diversi　a　seconda　di　chi　lo　lancia.

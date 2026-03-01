@@ -1,2 +1,2 @@
-Questa　area　indica　la　%3cvisibilitａ
-del　tuo　velivolo%c.
+Questa　area　indica　la　%3cvisibilitａ　del
+tuo　velivolo%c.

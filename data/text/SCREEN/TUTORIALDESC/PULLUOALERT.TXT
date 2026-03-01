@@ -1,4 +1,4 @@
-Questo　messaggio　viene　visualizzato　quando
-l’%3caltitudine　di　volo%c　ｅ　bassa.　Punta
-il　muso　verso　l’alto　per　evitare
-lo　schianto.
+Questo　messaggio　viene　visualizzato
+quando　l’%3caltitudine　di　volo%c　ｅ　bassa.
+Punta　il　muso　verso　l’alto　per
+evitare　lo　schianto.

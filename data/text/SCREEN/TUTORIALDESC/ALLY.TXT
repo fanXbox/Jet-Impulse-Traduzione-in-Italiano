@@ -1,3 +1,3 @@
-Gli　%3cAlleati%c　sono　visualizzati　in
-blu.　Tuttavia,　in　modalitａ　ＶＳ　sono
-determinati　dal　colore　da　te　scelto.
+Gli　%3cAlleati%c　sono　visualizzati　in　blu.
+Tuttavia,　in　modalitａ　ＶＳ　sono　determinati
+dal　colore　da　te　scelto.
