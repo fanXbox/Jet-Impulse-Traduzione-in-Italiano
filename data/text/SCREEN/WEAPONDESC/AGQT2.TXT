@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAGQT2%c
-Missile　aria-superficie　che　aggancia
-fino　a　4　bersagli　contemporaneamente.
+Missile　aria-superficie　che　aggancia　fino　a
+4　bersagli　contemporaneamente.
 Versione　migliorata　dell’AGQT1.

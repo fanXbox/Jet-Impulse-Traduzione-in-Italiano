@@ -1,5 +1,4 @@
 2°　Arma:　　%3cAGTT2%c
-Missile　anti-superficie　che
-aggancia　fino　a　3　bersagli
-contemporaneamente.
+Missile　anti-superficie　che　aggancia　fino　a
+3　bersagli　contemporaneamente.
 Versione　migliorata　dell’AGTT1.

@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAGIM5%c
-Missile　aria-superficie　ad　alta
-tecnologia　con　prestazioni　migliorate.
+Missile　aria-superficie　ad　alta　tecnologia
+con　prestazioni　migliorate.
 Versione　migliorata　dell’AGIM3.

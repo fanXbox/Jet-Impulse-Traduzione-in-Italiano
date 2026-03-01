@@ -1,5 +1,4 @@
 1°　Arma:　　%3cAAMH8%c
-Missile　avanzato　ad　alta
-tecnologia　con　eccezionali
-prestazioni　di　tracciamento.
+Missile　avanzato　ad　alta　tecnologia　con
+eccezionali　prestazioni　di　tracciamento.
 Versione　migliorata　dell’AAMH7.

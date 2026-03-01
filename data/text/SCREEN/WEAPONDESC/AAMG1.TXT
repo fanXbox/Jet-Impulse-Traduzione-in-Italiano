@@ -1,3 +1,2 @@
 1°　Arma:　　%3cAAMG1%c
-Un　missile　anti-aereo　lento
-ma　potente.
+Un　missile　anti-aereo　lento　ma　potente.

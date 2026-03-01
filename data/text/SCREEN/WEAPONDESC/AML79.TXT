@@ -1,4 +1,4 @@
 2°　Arma:　　%3cAML79%c
-Missile　aria-aria　a　lungo　raggio
-con　danni　aumentati.
+Missile　aria-aria　a　lungo　raggio　con
+danni　aumentati.
 Versione　potenziata　dell’AML72.

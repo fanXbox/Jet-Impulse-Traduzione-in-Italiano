@@ -1,4 +1,4 @@
 1°　Arma:　　%3cAAM7B%c
-Missile　anti-aereo　con　elevate
-prestazioni　di　tracciamento.
+Missile　anti-aereo　con　elevate　prestazioni　di
+tracciamento.
 Versione　migliorata　dell’AAM7A.
