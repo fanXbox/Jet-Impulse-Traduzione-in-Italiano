@@ -1,5 +1,4 @@
-Leggi　le
+Leggi　tutte　le
 informazioni　su
 personaggi,　nazioni
-e　comandi
-dell’aereo.
+e　comandi　di　volo.
