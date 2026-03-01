@@ -1,4 +1,4 @@
 Massiccia　portaerei　terrestre　di　Neopax,
-schierata　dall’esercito　Zela.　Puｏ　muoversi
-senza　ostacoli　attraverso　fiumi,　foreste　e
-altri　tipi　di　terreno.
+schierata　dall’esercito　Zela.
+Puｏ　muoversi　senza　ostacoli　attraverso
+fiumi,　foreste　e　altri　tipi　di　terreno.
