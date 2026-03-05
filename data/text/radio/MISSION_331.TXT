@@ -2,4 +2,5 @@ Pilota　di　Akitsu:
 Velivolo　dello　stato
 di　Akitsu,　non　siete
 autorizzati　al　volo.
-Rientrate　immediatamente!
+Dovete　rientrate
+immediatamente!
