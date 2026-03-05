@@ -1,5 +1,4 @@
-Aerei　sconosciuti
-stanno　inseguendo　un
-disertore.　Scortate
-l’aereo　e　distruggete
-i　nemici.
+Aerei　sconosciuti　stanno
+inseguendo　un　disertore.
+Scortate　l’aereo　e
+abbatti　i　nemici.
