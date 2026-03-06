@@ -4,5 +4,5 @@ Traduzione dei testi e dell'interfaccia di gioco in italiano, questo lavoro una 
 *Il repositories contiene tutti i file modificati e necessari per la traduzione, file che verrano integrati nella patch di traduzione per facilitare eventuali lavori di traduzione<br/>
 *È stato creato il font che replica quello utilizzato nel gioco (già utilizzato per la traduzione in Inglese), in modo da facilitare la scrittura dei testi tradotti, che verrà integrato alla patch insieme ai file intermedi.<br/>
 
-24-2-2026 traduzione incompleta e ancora con difetti d'impaginazione
+24-2-2026 traduzione incompleta e ancora con difetti d'impaginazione<br/>
 6-3-2026 traduzione completa, ma da verificare nella sua correttezza
