@@ -1,4 +1,3 @@
-L’avversario　si
-ｅ　disconnesso
-dalla　comunicazione
-wireless　del　DS.
+L’avversario　si　ｅ　disconnesso
+dalla　comunicazione　wireless
+del　DS.
