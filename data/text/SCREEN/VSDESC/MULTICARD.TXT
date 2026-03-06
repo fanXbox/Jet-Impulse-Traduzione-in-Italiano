@@ -1,6 +1,4 @@
-%2cMultigiocatore%c
+%2cIn　locale%c
 
-Usa　piｕ　console　DS　per
-giocare　con　altri　giocatori
-vicini　a　te.
-(Connessione　locale)
+Usa　piｕ　console　DS　per　giocare
+con　altri　giocatori　vicini　a　te.
