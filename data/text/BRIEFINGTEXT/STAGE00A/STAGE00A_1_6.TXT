@@ -1,6 +1,6 @@
 Jasmine:
 Questo　ｅ　tutto.
 Quest’operazione　ha　in　nome
-in　codice　“Shadow　Border”.
+in　codice　“Linea　d’Ombra”.
 
 Buona　fortuna!
