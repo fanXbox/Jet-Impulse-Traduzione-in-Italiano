@@ -1,3 +1,4 @@
 Jasmine:
 Stanno　lanciando　carri
-armati　con　il　paracadute!
+armati　con　il
+paracadute!
