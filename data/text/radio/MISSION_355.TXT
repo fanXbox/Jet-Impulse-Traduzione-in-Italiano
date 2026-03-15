@@ -1,7 +1,6 @@
 Jasmine:
-Gli　anfibi　si
-stanno　avvicinando　alla
-base!
+Gli　anfibi　si　stanno
+avvicinando　alla　base!
 Se　i　carri　armati
-atterrano,　non　potremmo
-difenderla!
+atterrano,　non
+potremmo　difenderla!
