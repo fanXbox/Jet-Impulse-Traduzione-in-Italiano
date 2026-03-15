@@ -20,6 +20,8 @@ SPAZIO	=	IDSP (　)	=	8140 o 7F	(se il testo ricade sullo schermo superiore, usa
 '	=	＇	=	27		(usare direttamente l'accento della tastiera)
 ’	=	’	=	8166
 °	=	°	=	818b
+“	=	“	=	8167
+”	=	”	=	8168
 
 Caratteri da usare in combinazione con i caratteri base per coprire tutti i caratteri accentati (acuto, grave, circonflesso e dieresi/Tréma), prima digitare questo carattere e poi il carattere base (scritti direttamente dalla tastiera) su cui applicarlo
 ˋ	=	ａ	=	8281
