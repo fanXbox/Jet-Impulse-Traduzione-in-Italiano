@@ -1,5 +1,4 @@
 Diane:
-Rilevata　nave
-nemica!　Da　essa
-partono　gli
-aerei!
+Rilevata　nave　nemica!
+Da　essa　partono
+gli　aerei!
