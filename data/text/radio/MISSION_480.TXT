@@ -1,4 +1,4 @@
-Enigma　Bianco:
+Sfinge　Bianca:
 Jasmine,
 %player_name_%,
 non　c’ｅ　piｕ
