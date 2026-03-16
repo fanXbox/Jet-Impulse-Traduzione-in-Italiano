@@ -1,4 +1,3 @@
 Cactus:
-E　chiarirｏ　chi　di
-noi　ｅ　in　cima,
-%player_name_%.
+E　chiarirｏ　chi　di　noi
+ｅ　in　cima,　%player_name_%.
