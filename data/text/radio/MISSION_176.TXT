@@ -1,4 +1,5 @@
 Diane:
-Distruggendo　i　bersagli
-contrassegnati　otterrai
-il　doppio　dei　punti.
+Distruggi　i　bersagli
+contrassegnati　per
+ottenere　il　doppio
+dei　punti.
