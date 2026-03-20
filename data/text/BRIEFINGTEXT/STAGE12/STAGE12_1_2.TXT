@@ -5,5 +5,4 @@ forze　terrestri　nemiche　che
 circondano　la　base.
 
 L’operazione　verrａ　interrotta　se
-venite　rilevati　dal　radar
-nemici.
+venite　rilevati　dal　radar　nemici.
