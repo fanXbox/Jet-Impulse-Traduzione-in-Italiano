@@ -1,5 +1,3 @@
 Jasmine:
-Segui　la　mia
-taiettoria.
-Stai　lontano　dai
-radars
+Segui　la　mia　traiettoria.
+Stai　lontano　dai　radar.
