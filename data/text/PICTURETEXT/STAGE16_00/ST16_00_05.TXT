@@ -1,8 +1,9 @@
 Jasmine:
 E...　c’era　qualcuno　che　osservava
-questa　pace　vuota　proveniente　dalle　ombre.
+questa　pace　vuota　proveniente
+dalle　ombre.
 
-Un　uomo　che　probabilmente　osservava　la　scena
-con　un　divertimento　contorto,　la　sua　mente
-giａ　fissata　su　una　nuova,　terrificante
-determinazione.
+Un　uomo　che　probabilmente　osservava
+la　scena　con　un　divertimento　contorto,
+la　sua　mente　giａ　fissata
+su　una　nuova,　terrificante　determinazione.
