@@ -1,4 +1,4 @@
 Woodball:
-Per　favore,　ferma
-Jasmine,
-%player_name_%.
+Per　favore,
+%player_name_%,
+ferma　Jasmine.
