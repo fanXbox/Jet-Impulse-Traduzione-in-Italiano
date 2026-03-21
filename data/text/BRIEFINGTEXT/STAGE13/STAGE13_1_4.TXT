@@ -1,7 +1,6 @@
 Diane:
-Nota　che　ogni　deposito　di
-rifornimenti　sarａ　contrassegnato
-sul　radar,　ma　non　potrａ
-essere　agganciato.
+Nota　che　ogni　deposito　di　rifornimenti
+sarａ　contrassegnato　sul　radar,
+ma　non　potrａ　essere　agganciato.
 
-Usa　la　mira　per　distruggerli　tutti.
+Usa　il　mitra　per　distruggerli　tutti.

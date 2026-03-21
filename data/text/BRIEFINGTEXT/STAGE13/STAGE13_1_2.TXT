@@ -1,5 +1,4 @@
 Diane:
-Pertando,　la　vostra　prioritａ
-principale　non　sono　le　forze
-di　combattimento,　ma　i　loro
-depositi　di　rifornimento.
+Pertando,　la　vostra　prioritａ　principale
+non　sono　le　forze　di　combattimento,
+ma　i　loro　depositi　di　rifornimento.
