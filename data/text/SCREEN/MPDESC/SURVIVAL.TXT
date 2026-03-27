@@ -1,7 +1,6 @@
 %3cSopravvivenza%c
-Completa　le　fasi　entro　il　tempo
-limite,　altrimenti　la　tua　missione
-fallirａ.
+Completa　le　fasi　entro　il　tempo　limite,
+altrimenti　la　tua　missione　fallirａ.
 
 Ci　sono　5　fasi　totali.
 Buona　fortuna!
