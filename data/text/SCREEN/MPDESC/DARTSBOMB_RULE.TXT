@@ -3,5 +3,5 @@
 gli　obbiettivi.
 
 %1cCause　di　sconfitta%c
--　Tempo　scaduto
+-　Tempo　scaduto.
 -　Aereo　distrutto.
