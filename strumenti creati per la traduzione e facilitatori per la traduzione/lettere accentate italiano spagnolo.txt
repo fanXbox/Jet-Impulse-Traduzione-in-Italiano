@@ -1,4 +1,4 @@
-	desiderato	file .TXT		file .MDIG/.MDIG2	Note
+	desiderato	file .TXT (Shift-JIS)	file .MDIG/.MDIG2	Note
 	SPAZIO	=	DEL ()	=	7F	(se il testo ricade sullo schermo superiore, usare lo spazio della tastiera)
 SPAZIO LUNGO	=	IDSP (　)	=	8140
 	à	=	ａ	=	8281
