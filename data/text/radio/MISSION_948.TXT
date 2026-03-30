@@ -1,5 +1,5 @@
-Operatore@nemico:
+Operatorenemico:
 Eh...?
-Qualcosa@di
-sospetto@sul
+Qualcosadi
+sospettosul
 radar.

@@ -1,4 +1,4 @@
-Comandante@Zela:
-Qui@prendiamo
+ComandanteZela:
+Quiprendiamo
 posizione!
-Unit‚,@muoversi!
+Unit‚,muoversi!
