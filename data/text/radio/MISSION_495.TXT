@@ -1,4 +1,4 @@
 Woodball:
-Per@favore,
+Perfavore,
 %player_name_%,
-ferma@Jasmine.
+fermaJasmine.

@@ -1,4 +1,4 @@
 Jasmine:
-Lfabbiamo@fatto?
-Aspetta,@qualcosa
-non@va.
+Lfabbiamofatto?
+Aspetta,qualcosa
+nonva.
