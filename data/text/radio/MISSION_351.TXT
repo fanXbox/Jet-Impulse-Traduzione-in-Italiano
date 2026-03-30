@@ -1,5 +1,5 @@
 Ginger:
-Bersaglio　neutralizzato.
-Rilevato　segnale　di
-evacuazione　d’emergenza.
-Missione　compiuta.
+Bersaglioneutralizzato.
+Rilevatosegnaledi
+evacuazioned’emergenza.
+Missionecompiuta.
