@@ -1,5 +1,5 @@
 Delight:
-Escludendo　Neopax,
-vogliamo　scoprire
-insieme　cosa
-succede　dopo?
+EscludendoNeopax,
+vogliamoscoprire
+insiemecosa
+succededopo?

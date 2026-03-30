@@ -1,7 +1,7 @@
 Jasmine:
-Distruggiamo@prima@le
-postazioni@dfartiglieria
+Distruggiamoprimale
+postazionidfartiglieria
 vicine!
-Dobbiamo@minimizzare
-le@perdite
+Dobbiamominimizzare
+leperdite
 dellfesercito.

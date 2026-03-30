@@ -1,3 +1,3 @@
 Delight:
-Scusate,@rientro
-per@riorganizzarmi.
+Scusate,rientro
+perriorganizzarmi.
