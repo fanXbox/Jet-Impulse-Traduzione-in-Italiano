@@ -1,2 +1,2 @@
 Cactus:
-Cactus,@ricevuto!
+Cactus,ricevuto!

@@ -1,2 +1,2 @@
 Jasmine:
-Jasmine,@ricevuto!
+Jasmine,ricevuto!
