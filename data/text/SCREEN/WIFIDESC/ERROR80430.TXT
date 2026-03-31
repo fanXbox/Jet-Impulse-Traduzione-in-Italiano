@@ -4,4 +4,4 @@ Potrebbenonessereconnessoalla
 connessioneWi-Fi,oppurepotresti
 esserestatorimossodallasua
 <FriendList>.
-ERRORCODE:%d
+ERRORCODE:%d
