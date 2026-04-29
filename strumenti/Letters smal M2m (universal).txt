@@ -1,0 +1,190 @@
+Desired character	file .TXT (ANSI)	file .MDIG/.MDIG2/.BIN	Notizen
+standard space	=	DEL ()	=	7F			(If the text falls on the top screen, use the keyboard space.)
+full-thickness space=	IDSP (　)	=	8140
+
+Restored ANSI characters 00A1 to 00DF (but with the uppercase letters swapped with the lowercase ones):
+	¡	=	¡	=	A1
+	¢	=	¢	=	A2
+	£	=	£	=	A3
+	¤	=	¤	=	A4
+	¥	=	¥	=	A5
+	¦	=	¦	=	A6
+	§	=	§	=	A7
+	¨	=	¨	=	A8
+	©	=	©	=	A9
+	ª	=	ª	=	AA
+	«	=	«	=	AB
+	¬	=	¬	=	AC
+	­	=	­	=	AD
+	®	=	®	=	AE
+	¯	=	¯	=	AF
+	°	=	°	=	B0	(degree symbol)
+	±	=	±	=	B1
+	²	=	²	=	B2
+	³	=	³	=	B3
+	´	=	´	=	B4
+	µ	=	µ	=	B5
+	¶	=	¶	=	B6
+	·	=	·	=	B7
+	¸	=	¸	=	B8
+	¹	=	¹	=	B9
+	º	=	º	=	BA	(ordinal indicator MASCULINE)
+	»	=	»	=	BB
+	¼	=	¼	=	BC
+	½	=	½	=	BD
+	¾	=	¾	=	BE
+	¿	=	¿	=	BF
+	À	=	À	=	C0
+	à	=	À	=	C0
+	á	=	Á	=	C1
+	â	=	Â	=	C2
+	ã	=	Ã	=	C3
+	ä	=	Ä	=	C4
+	å	=	Å	=	C5
+	Æ	=	Æ	=	C6
+	Ç	=	Ç	=	C7
+	è	=	È	=	C8
+	é	=	É	=	C9
+	ê	=	Ê	=	CA
+	ë	=	Ë	=	CB
+	ì	=	Ì	=	CC
+	í	=	Í	=	CD
+	î	=	Î	=	CE
+	ï	=	Ï	=	CF
+	Ð	=	Ð	=	D0
+	ñ	=	Ñ	=	D1
+	ò	=	Ò	=	D2
+	ó	=	Ó	=	D3
+	ô	=	Ô	=	D4
+	õ	=	Õ	=	D5
+	ö	=	Ö	=	D6
+	×	=	×	=	D7
+	Ø	=	Ø	=	D8
+	ù	=	Ù	=	D9
+	ú	=	Ú	=	DA
+	û	=	Û	=	DB
+	ü	=	Ü	=	DC
+	ý	=	Ý	=	DD
+	Þ	=	Þ	=	DE
+	ß	=	ß	=	DF
+
+Other ANSI characters have been inserted in different positions as their positions are not available. Since text files are opened using "ANSI" encoding rather than "Shift-JIS", for some characters it is necessary to use a combination of characters that are not always visible (which is why the document is formatted using the tab function to facilitate selection):
+
+	Œ	=	‚ˆ	=	8288
+	æ	=	‚Š	=	828A
+	œ	=	‚‹	=	828B
+	„	=	‚	=	828F
+	Ì	=	‚”	=	8294
+	Í	=	‚•	=	8295
+	Î	=	‚–	=	8296
+	Ï	=	‚—	=	8297
+
+The typographic signs of greatest interest are:
+	’	=	＇	=	27			(use the keyboard accent directly)
+	＇	=	úV	=	8166
+	“	=	g	=	8167
+	”	=	h	=	8168
+	…	=	c	=	8163
+
+For accented lowercase letters, you need to combine two characters, the specific diacritical mark (´, `, ˆ, ¨, ~,  ̑, ˘, and ¸) and the letter to be accented.
+	ˆ	=	^	=	5E
+	ˋ	=	`	=	60
+	~	=	~	=	7E
+	¨	=	¨	=	A8
+	´	=	´	=	B4
+	¸	=	¸	=	B8
+	˘	=	K	=	814B
+	˚	=	\	=	814F
+	  ̑	=	‹	=	818B
+˘ (lowercase)	=	‚…	=	8285
+  ̑(lowercase)	=	‚†	=	8286
+								
+Examples:
+	Â	=	^A	=	5E41
+	Ë	=	¨E	=	A845
+	À	=	`A	=	6041
+	É	=	´E	=	B445
+
+Basic characters
+	A	=	A	=	41
+	B	=	B	=	42
+	C	=	C	=	43
+	D	=	D	=	44
+	E	=	E	=	45
+	F	=	F	=	46
+	G	=	G	=	47
+	H	=	H	=	48
+	I	=	I	=	49
+	J	=	J	=	4a
+	K	=	K	=	4b
+	L	=	L	=	4c
+	M	=	M	=	4d
+	N	=	N	=	4e
+	O	=	O	=	4f
+	P	=	P	=	50
+	Q	=	Q	=	51
+	R	=	R	=	52
+	S	=	S	=	53
+	T	=	T	=	54
+	U	=	U	=	55
+	V	=	V	=	56
+	W	=	W	=	57
+	X	=	X	=	58
+	Y	=	Y	=	59
+	Z	=	Z	=	5a
+	a	=	a	=	61
+	b	=	b	=	62
+	c	=	c	=	63
+	d	=	d	=	64
+	e	=	e	=	65
+	f	=	f	=	66
+	g	=	g	=	67
+	h	=	h	=	68
+	i	=	i	=	69
+	j	=	j	=	6a
+	k	=	k	=	6b
+	l	=	l	=	6c
+	m	=	m	=	6d
+	n	=	n	=	6e
+	o	=	o	=	6f
+	p	=	p	=	70
+	q	=	q	=	71
+	r	=	r	=	72
+	s	=	s	=	73
+	t	=	t	=	74
+	u	=	u	=	75
+	v	=	v	=	76
+	w	=	w	=	77
+	x	=	x	=	78
+	y	=	y	=	79
+	z	=	z	=	7a
+
+Full-width fonts
+	Ａ	=	‚`	=	8260
+	Ｂ	=	‚a	=	8261
+	Ｃ	=	‚b	=	8262
+	Ｄ	=	‚c	=	8263
+	Ｅ	=	‚d	=	8264
+	Ｆ	=	‚e	=	8265
+	Ｇ	=	‚f	=	8266
+	Ｈ	=	‚g	=	8267
+	Ｉ	=	‚h	=	8268
+	Ｊ	=	‚i	=	8269
+	Ｋ	=	‚j	=	826a
+	Ｌ	=	‚k	=	826b
+	Ｍ	=	‚l	=	826c
+	Ｎ	=	‚m	=	826d
+	Ｏ	=	‚n	=	826e
+	Ｐ	=	‚o	=	826f
+	Ｑ	=	‚p	=	8270
+	Ｒ	=	‚q	=	8271
+	Ｓ	=	‚r	=	8272
+	Ｔ	=	‚s	=	8273
+	Ｕ	=	‚t	=	8274
+	Ｖ	=	‚u	=	8275
+	Ｗ	=	‚v	=	8276
+	Ｘ	=	‚w	=	8277
+	Ｙ	=	‚x	=	8278
+	Ｚ	=	‚y	=	8279
+	＋	=	{	=	817b
+	－	=	|	=	817c

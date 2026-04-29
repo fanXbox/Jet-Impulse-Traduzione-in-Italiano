@@ -1,0 +1,7 @@
+screen⇒BRIEFING:
+	scr_brief_new.NCGR
+
+screen⇒INGAME⇒SUBDISPLAY⇒PAUSE:
+	pause_confirm.NCGR
+	pause_confirm_FREE.NCGR
+	pause_confirm_VS.NCGR
