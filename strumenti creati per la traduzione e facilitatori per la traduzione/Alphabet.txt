@@ -1,0 +1,3 @@
+Collection of video game raster alphabets.
+
+For some alphabets there are alternative characters, these are represented below the main alphabet, which is why there are lines with few characters.
