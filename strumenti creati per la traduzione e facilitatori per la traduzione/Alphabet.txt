@@ -1,3 +1,9 @@
 Collection of video game raster alphabets.
 
 For some alphabets there are alternative characters, these are represented below the main alphabet, which is why there are lines with few characters.
+
+The single-color alphabets were created in black because it's easy to convert them to the desired color.
+
+The multicolored (anti-aliasing) alphabets were created using the "visualizzatore tabella colori alto contrasto.NCLR" color palette. This makes it easier to edit text using this palette with .NCGR files, eliminating the need to re-adapt the alphabets to the specific color palette (it's also easier to re-adapt the alphabet colors).
+
+The last alphabet (at the bottom) is available in both the "visualizzatore tabella colori alto contrasto.NCLR" and "topmode.NCLR" palettes.
