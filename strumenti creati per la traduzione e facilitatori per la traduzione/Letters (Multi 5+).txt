@@ -1,6 +1,6 @@
 Desired character	file .TXT (ANSI)	file .MDIG/.MDIG2/.BIN	Notizen
-standard space	=	DEL ()	=	7F			(If the text falls on the top screen, use the keyboard space.)
-full-thickness space=	IDSP (　)	=	8140
+standard space	=	DEL ()	=	7F		(If the text falls on the top screen, use the keyboard space.)
+full-thickness space=	IDSP (@)	=	8140		(combination of characters)
 
 Restored ANSI characters 00A1 to 00DF:
 	¡	=	¡	=	A1
@@ -18,7 +18,7 @@ Restored ANSI characters 00A1 to 00DF:
 	­	=	­	=	AD
 	®	=	®	=	AE
 	¯	=	¯	=	AF
-	°	=	°	=	B0	(degree symbol)
+	°	=	°	=	B0		(degree symbol)
 	±	=	±	=	B1
 	²	=	²	=	B2
 	³	=	³	=	B3
@@ -28,7 +28,7 @@ Restored ANSI characters 00A1 to 00DF:
 	·	=	·	=	B7
 	¸	=	¸	=	B8
 	¹	=	¹	=	B9
-	º	=	º	=	BA	(ordinal indicator MASCULINE)
+	º	=	º	=	BA		(ordinal indicator MASCULINE)
 	»	=	»	=	BB
 	¼	=	¼	=	BC
 	½	=	½	=	BD
