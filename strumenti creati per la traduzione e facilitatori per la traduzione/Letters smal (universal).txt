@@ -85,7 +85,7 @@ The typographic signs of greatest interest are:
 	”	=	h	=	8168
 	…	=	c	=	8163
 
-For accented lowercase letters, you need to combine two characters, the specific diacritical mark (´, `, ˆ, ¨, ~,  ̑, ˘, ̦, and ¸) and the letter to be accented.
+For accented lowercase letters, you need to combine two characters, the specific diacritical mark (´, `, ˆ, ¨, ~,  ̑, ˘, ˇ,  ̦,  ˛, and ¸) and the letter to be accented.
 	ˆ	=	^	=	5E
 	ˋ	=	`	=	60
 	~	=	~	=	7E
@@ -95,9 +95,12 @@ For accented lowercase letters, you need to combine two characters, the specific
 	˘	=	K	=	814B
 	˚	=	\	=	814F
 	  ̑	=	‹	=	818B
+	ˇ	=	‚ƒ	=	8283
+ˇ (lowercase)	=	‚„	=	8284
 ˘ (lowercase)	=	‚…	=	8285
   ̑(lowercase)	=	‚†	=	8286
 	̦	=	‚	=	8290
+	 ˛	=	‚‘	=	8291
 								
 Examples:
 	â	=	^a	=	5E61
