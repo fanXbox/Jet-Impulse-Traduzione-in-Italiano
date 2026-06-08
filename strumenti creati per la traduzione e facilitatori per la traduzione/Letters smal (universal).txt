@@ -77,6 +77,8 @@ Other ANSI characters have been inserted in different positions as their positio
 	í	=	‚•	=	8295
 	î	=	‚–	=	8296
 	ï	=	‚—	=	8297
+	Ī	=	‚˜	=	8298
+	ī	=	‚™	=	8299
 
 The typographic signs of greatest interest are:
 	’	=	＇	=	27			(use the keyboard accent directly)
@@ -85,7 +87,7 @@ The typographic signs of greatest interest are:
 	”	=	h	=	8168
 	…	=	c	=	8163
 
-For accented lowercase letters, you need to combine two characters, the specific diacritical mark (´, `, ˆ, ¨, ~,  ̑, ˘, ˇ,  ̦,  ˛, and ¸) and the letter to be accented.
+For accented lowercase letters, you need to combine two characters, the specific diacritical mark (´, `, ˆ, ¨, ~,  ̑, ˘, ˙, ˇ,  ̦,  ˛, ¯, ˝, and ¸) and the letter to be accented.
 	ˆ	=	^	=	5E
 	ˋ	=	`	=	60
 	~	=	~	=	7E
@@ -95,18 +97,23 @@ For accented lowercase letters, you need to combine two characters, the specific
 	˘	=	K	=	814B
 	˚	=	\	=	814F
 	  ̑	=	‹	=	818B
+	˙	=	‚	=	8281
+˙ (lowercase)	=	‚‚	=	8282
 	ˇ	=	‚ƒ	=	8283
 ˇ (lowercase)	=	‚„	=	8284
 ˘ (lowercase)	=	‚…	=	8285
   ̑(lowercase)	=	‚†	=	8286
 	̦	=	‚	=	8290
 	 ˛	=	‚‘	=	8291
+	¯	=	‚’	=	8292
+	˝	=	‚“	=	8293
 								
 Examples:
 	â	=	^a	=	5E61
 	ë	=	¨e	=	A865
 	à	=	`a	=	6061
 	é	=	´e	=	B465
+	Ā	=	‚’A	=	829241
 
 Basic characters
 	A	=	A	=	41
