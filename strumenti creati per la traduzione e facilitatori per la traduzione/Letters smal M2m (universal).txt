@@ -104,10 +104,12 @@ For accented lowercase letters, you need to combine two characters, the specific
 ˇ (lowercase)	=	‚„	=	8284
 ˘ (lowercase)	=	‚…	=	8285
   ̑(lowercase)	=	‚†	=	8286
+	¯	=	‚	=	828D
+¯(lowercase)	=	‚Ž	=	828E
 	̦	=	‚	=	8290
 	 ˛	=	‚‘	=	8291
-	¯	=	‚’	=	8292
-	˝	=	‚“	=	8293
+	˝	=	‚’	=	8292
+˝(lowercase)	=	‚“	=	8293
 								
 Examples:
 	Â	=	^A	=	5E41
