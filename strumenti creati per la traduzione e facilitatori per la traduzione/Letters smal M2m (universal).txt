@@ -112,11 +112,13 @@ For accented lowercase letters, you need to combine two characters, the specific
 ˝(lowercase)	=	‚“	=	8293
 								
 Examples:
-	Â	=	^A	=	5E41
-	Ë	=	¨E	=	A845
-	À	=	`A	=	6041
-	É	=	´E	=	B445
-	Ā	=	‚’A	=	829241
+	â	=	^a	=	5E61
+	ë	=	¨e	=	A865
+	à	=	`a	=	6061
+	é	=	´e	=	B465
+	Ā	=	‚’A	=	828D41
+	ų	=	‚‘u	=	829175
+	Ő	=	‚’O	=	82924F
 
 Basic characters
 	A	=	A	=	41
